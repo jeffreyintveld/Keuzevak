@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  display: flex;
+  width: 600px;
+  height: 400px;
+  background: black;
+}
+
+.block {
+  display: flex;
+}
+
+#block1 {
+  width: 200px;
+  height: 400px;
+  margin-right: 8px;
+  background: yellow;
+}
+
+#block2 {
+  width: 244px;
+  height: 400px;
+  margin-right: 8px;
+  background: whitesmoke;
+}
+
+#block3 {
+  width: 140px;
+  height: 400px;
+  background: red;
+}
